@@ -1,0 +1,2 @@
+model_checkpoint_path: "language_modelling.ckpt"
+all_model_checkpoint_paths: "language_modelling.ckpt"
